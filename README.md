@@ -1,7 +1,7 @@
 <img align="center" width="1100" height="300" src="https://media.licdn.com/dms/image/C4D12AQGT0wqJTMjHtw/article-cover_image-shrink_600_2000/0/1631275853497?e=2147483647&v=beta&t=EsoF_Tn7OgiAvsV4Jy3vSWhi-Ee52UyM8bKtdAD5QQ0">
 <h1 align="center">Hi 👋, I'm Ashutosh Meher</h1>
 <h3 align="center">A passionate fullstack developer and a programmer from India</h3>
-<img align="right" alt="Coding" width="450" height="320" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
+<img align="right" alt="Coding" width="450" height="300" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-353&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-353" /> </p>
 
