@@ -1,4 +1,4 @@
-<img align="center" width="1300" height="500" src="https://media.licdn.com/dms/image/C4D12AQGT0wqJTMjHtw/article-cover_image-shrink_600_2000/0/1631275853497?e=2147483647&v=beta&t=EsoF_Tn7OgiAvsV4Jy3vSWhi-Ee52UyM8bKtdAD5QQ0">
+<img align="center" width="1300" height="700" src="https://media.licdn.com/dms/image/C4D12AQGT0wqJTMjHtw/article-cover_image-shrink_600_2000/0/1631275853497?e=2147483647&v=beta&t=EsoF_Tn7OgiAvsV4Jy3vSWhi-Ee52UyM8bKtdAD5QQ0">
 <h1 align="center">Hi 👋, I'm Ashutosh Meher</h1>
 <h3 align="center">A passionate fullstack developer and a programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif">
