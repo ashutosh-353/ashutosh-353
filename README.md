@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Meher</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Programmer | India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Backend Developer | India 🇮🇳</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Backend+Developer;React+%7C+Node+Developer;Building+Awesome+Web+Apps;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Backend+Developer;React+%7C+Node+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -13,25 +13,31 @@
 
 # 👨‍💻 About Me
 
-* 💻 Passionate **Full Stack Developer**
-* ☕ Strong focus on **Java Backend Development**
-* 🌱 Currently learning **Advanced Full Stack Development**
-* ⚡ Fun fact: **Mad Cricket Lover 🏏**
-* 🎯 Goal: Become a **Top Software Engineer**
+💻 Passionate **Full Stack Developer**  
+☕ Strong focus on **Java Backend Development**  
+🌱 Currently learning **Advanced Full Stack Development**  
+🏏 **Cricket Enthusiast** when not coding  
+🎯 Goal: **Become a Top Software Engineer building impactful systems**
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/ashutosh-meher-4156a327a/">
-<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Meher-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/ashutosh-meher-4156a327a/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:meherashutosh2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://github.com/ashutosh-353">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 
 </p>
-
-📫 **Email:** [meherashutosh2004@gmail.com](mailto:meherashutosh2004@gmail.com)
 
 ---
 
@@ -91,14 +97,18 @@
 
 ---
 
-# 💡 Random Developer Quote
+# 💡 Developer Philosophy
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+💡 *"Great software isn’t written by chance — it's crafted through curiosity, consistency, and the courage to solve problems others avoid."*
+
+⚡ *I build systems that are not just functional, but scalable, efficient, and meaningful.*
+
 </p>
 
 ---
 
 <p align="center">
-⭐️ From <b>Ashutosh Meher</b>
+⭐️ From <b>Ashutosh Meher</b> | Building the future one commit at a time 🚀
 </p>
