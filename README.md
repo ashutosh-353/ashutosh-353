@@ -2,26 +2,26 @@
 <h3 align="center">🚀 Full Stack Developer | ☕ Java Programmer | 🇮🇳 India</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F72E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+Programmer;Web+Development+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Programmer;Web+Development+Enthusiast;Building+Awesome+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 * 💻 Passionate **Full Stack Developer**
-* ☕ Love working with **Java**
-* 🌱 Currently learning **Advanced Full Stack Development**
-* ⚡ Fun fact: **I am a mad cricket lover 🏏**
+* ☕ Java **Backend Developer**
+* 🌱 Currently learning **Advanced Web Development**
 * 🎯 Goal: Become a **Top Software Engineer**
+* ⚡ Fun fact: **Mad Cricket Lover 🏏**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ashutosh-meher-4156a327a/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Meher-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/ashutosh-meher-4156a327a/">
+<img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Meher-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -72,7 +72,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-353&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutosh-353&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -80,15 +80,31 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashutosh-353&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashutosh-353&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ashutosh-353&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ashutosh-353&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+</p>
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
